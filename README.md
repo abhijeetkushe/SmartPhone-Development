@@ -1,11 +1,11 @@
 SmartPhone-Development-
 =======================
-# Smart Psychologist
+## Smart Psychologist
 
-## Software Specification (Contains ScreenShots)
+### Software Specification (Contains ScreenShots)
 https://www.scribd.com/doc/248521259/Smart-Psychologist-Project-Report
 
-## Technoogies
+### Technoogies
 * Objective C
 * J2EE 5
 * Apache POI
