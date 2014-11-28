@@ -1,0 +1,1821 @@
+TFinalProject
+v7
+r0
+t357327009.802227
+cCheck dependencies
+cProcessInfoPlistFile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/Info.plist FinalProject-Info.plist
+cCompileXIB /Users/User/Documents/FinalProject/MainWindow.xib
+cCompileXIB /Users/User/Documents/FinalProject/RootViewController.xib
+cCpResource build/Debug-iphonesimulator/FinalProject.app/addiction.jpg addiction.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/addiction2.jpg addiction2.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/advice.html advice.html
+cCpResource build/Debug-iphonesimulator/FinalProject.app/anxietyImage.jpg anxietyImage.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/doctorAdvice.jpg doctorAdvice.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/evaluation.jpg evaluation.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/finalProject.db finalProject.db
+cCpResource build/Debug-iphonesimulator/FinalProject.app/images.jpg images.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/manicdepressionsigns.jpg manicdepressionsigns.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/parenting.jpg parenting.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/personality.jpg personality.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/personality2.jpg personality2.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/radio_sel.jpg radio_sel.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/radio_unsel.jpg radio_unsel.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/sardinia.jpg sardinia.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/thoughts.jpg thoughts.jpg
+cCpResource build/Debug-iphonesimulator/FinalProject.app/WakeUp.jpg WakeUp.jpg
+cCompileXIB /Users/User/Documents/FinalProject/Classes/AddressProfile.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/AddUserController.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/captchaPage.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/CategoryViewController.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/CountryPicker.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/CreateAddressController.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/DatePickerController.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/firstPage.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/HomePage.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/LoginPage.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/PatientController.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/PersonalProfile.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/ResultsPage.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/TestController.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/TestDetail.xib
+cCompileXIB /Users/User/Documents/FinalProject/Classes/TestDetailTableController.xib
+cProcessPCH /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch.gch FinalProject_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/main.o /Users/User/Documents/FinalProject/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProjectAppDelegate.o /Users/User/Documents/FinalProject/Classes/FinalProjectAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/RootViewController.o /Users/User/Documents/FinalProject/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Address.o /Users/User/Documents/FinalProject/Classes/Address.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/AddressProfile.o /Users/User/Documents/FinalProject/Classes/AddressProfile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/AddUserController.o /Users/User/Documents/FinalProject/Classes/AddUserController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/captchaPage.o /Users/User/Documents/FinalProject/Classes/captchaPage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CategoryCount.o /Users/User/Documents/FinalProject/Classes/CategoryCount.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CategoryViewController.o /Users/User/Documents/FinalProject/Classes/CategoryViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CountryPicker.o /Users/User/Documents/FinalProject/Classes/CountryPicker.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CreateAddressController.o /Users/User/Documents/FinalProject/Classes/CreateAddressController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/DatePickerController.o /Users/User/Documents/FinalProject/Classes/DatePickerController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Employee.o /Users/User/Documents/FinalProject/Classes/Employee.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalAction.o /Users/User/Documents/FinalProject/Classes/FinalAction.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/firstPage.o /Users/User/Documents/FinalProject/Classes/firstPage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/HomePage.o /Users/User/Documents/FinalProject/Classes/HomePage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/LoginPage.o /Users/User/Documents/FinalProject/Classes/LoginPage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/PatientController.o /Users/User/Documents/FinalProject/Classes/PatientController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/PersonalProfile.o /Users/User/Documents/FinalProject/Classes/PersonalProfile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Question.o /Users/User/Documents/FinalProject/Classes/Question.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/ResultsPage.o /Users/User/Documents/FinalProject/Classes/ResultsPage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/ScoreValue.o /Users/User/Documents/FinalProject/Classes/ScoreValue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/SegmentManagingViewController.o /Users/User/Documents/FinalProject/Classes/SegmentManagingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Test1.o /Users/User/Documents/FinalProject/Classes/Test1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestController.o /Users/User/Documents/FinalProject/Classes/TestController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestDetail.o /Users/User/Documents/FinalProject/Classes/TestDetail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestDetailTableController.o /Users/User/Documents/FinalProject/Classes/TestDetailTableController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestResult.o /Users/User/Documents/FinalProject/Classes/TestResult.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/XMLTestParser.o /Users/User/Documents/FinalProject/Classes/XMLTestParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sqlite3.h
+c000000004D54CB5C0000000000045296
+t1297402716
+s283286
+
+N/Users/User/Documents/FinalProject/Classes/AddUserController.h
+c000000004F9BE48A000000000000026A
+t1335616650
+s618
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/AddUserController.m
+c000000004F9BF14D0000000000002BCA
+t1335619917
+s11210
+i"AddUserController.h"
+i"CreateAddressController.h"
+i"DatePickerController.h"
+i"CountryPicker.h"
+
+N/Users/User/Documents/FinalProject/Classes/AddUserController.xib
+c000000004F9C02C2000000000000E0FE
+t1335624386
+s57598
+
+N/Users/User/Documents/FinalProject/Classes/Address.h
+c000000004F80616D000000000000039D
+t1333813613
+s925
+
+N/Users/User/Documents/FinalProject/Classes/Address.m
+c000000004F8061780000000000000861
+t1333813624
+s2145
+i"Address.h"
+
+N/Users/User/Documents/FinalProject/Classes/AddressProfile.h
+c000000004F9C0C700000000000000141
+t1335626864
+s321
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/AddressProfile.m
+c000000004F9C131800000000000007AD
+t1335628568
+s1965
+i"AddressProfile.h"
+i"Employee.h"
+i"Address.h"
+
+N/Users/User/Documents/FinalProject/Classes/AddressProfile.xib
+c000000004F9C16E800000000000088A6
+t1335629544
+s34982
+
+N/Users/User/Documents/FinalProject/Classes/CategoryCount.h
+c000000004F9C2032000000000000017A
+t1335631922
+s378
+i<Foundation/Foundation.h>
+
+N/Users/User/Documents/FinalProject/Classes/CategoryCount.m
+c000000004F9C2020000000000000012D
+t1335631904
+s301
+i"CategoryCount.h"
+
+N/Users/User/Documents/FinalProject/Classes/CategoryViewController.h
+c000000004F9AC9820000000000000371
+t1335544194
+s881
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/CategoryViewController.m
+c000000004F9ACD430000000000000943
+t1335545155
+s2371
+i"categoryViewController.h"
+i"XMLTestParser.h"
+
+N/Users/User/Documents/FinalProject/Classes/CategoryViewController.xib
+c000000004F9AC9460000000000005D1B
+t1335544134
+s23835
+
+N/Users/User/Documents/FinalProject/Classes/CountryPicker.h
+c000000004F9B877E000000000000024A
+t1335592830
+s586
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/CountryPicker.m
+c000000004F9BE5E80000000000000DD7
+t1335617000
+s3543
+i"CountryPicker.h"
+
+N/Users/User/Documents/FinalProject/Classes/CountryPicker.xib
+c000000004F8DA18D0000000000005136
+t1334681997
+s20790
+
+N/Users/User/Documents/FinalProject/Classes/CreateAddressController.h
+c000000004F9BF0C00000000000000269
+t1335619776
+s617
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/CreateAddressController.m
+c000000004F9BF6100000000000002C28
+t1335621136
+s11304
+i"CreateAddressController.h"
+i"Employee.h"
+i"Address.h"
+i"FinalProjectAppDelegate.h"
+i"CountryPicker.h"
+i<sqlite3.h>
+
+N/Users/User/Documents/FinalProject/Classes/CreateAddressController.xib
+c000000004F9BF876000000000000AB6C
+t1335621750
+s43884
+
+N/Users/User/Documents/FinalProject/Classes/DatePickerController.h
+c000000004F7797190000000000000169
+t1333237529
+s361
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/DatePickerController.m
+c000000004F77A8EE0000000000000755
+t1333242094
+s1877
+i"DatePickerController.h"
+
+N/Users/User/Documents/FinalProject/Classes/DatePickerController.xib
+c000000004F89F38000000000000057E5
+t1334440832
+s22501
+
+N/Users/User/Documents/FinalProject/Classes/Employee.h
+c000000004F9B966900000000000004A3
+t1335596649
+s1187
+
+N/Users/User/Documents/FinalProject/Classes/Employee.m
+c000000004F9C1D540000000000000AD3
+t1335631188
+s2771
+i"Employee.h"
+i"Address.h"
+
+N/Users/User/Documents/FinalProject/Classes/FinalAction.h
+c000000004F8987B1000000000000022A
+t1334413233
+s554
+i<Foundation/Foundation.h>
+
+N/Users/User/Documents/FinalProject/Classes/FinalAction.m
+c000000004F8984CE0000000000000269
+t1334412494
+s617
+i"FinalAction.h"
+
+N/Users/User/Documents/FinalProject/Classes/FinalProjectAppDelegate.h
+c000000004F9C1B13000000000000039E
+t1335630611
+s926
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/FinalProjectAppDelegate.m
+c000000004F9C1C6E00000000000010C7
+t1335630958
+s4295
+i"FinalProjectAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/User/Documents/FinalProject/Classes/HomePage.h
+c000000004F932E0C000000000000013F
+t1335045644
+s319
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/HomePage.m
+c000000004F9339F20000000000001710
+t1335048690
+s5904
+i"HomePage.h"
+i"FinalAction.h"
+i"LoginPage.h"
+i"AddUserController.h"
+
+N/Users/User/Documents/FinalProject/Classes/HomePage.xib
+c000000004F9326340000000000001C63
+t1335043636
+s7267
+
+N/Users/User/Documents/FinalProject/Classes/LoginPage.h
+c000000004F9BF73200000000000000F8
+t1335621426
+s248
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/LoginPage.m
+c000000004F9BFA120000000000000F31
+t1335622162
+s3889
+i"LoginPage.h"
+i"SegmentManagingViewController.h"
+i"FinalProjectAppDelegate.h"
+i<sqlite3.h>
+
+N/Users/User/Documents/FinalProject/Classes/LoginPage.xib
+c000000004F9BF88F000000000000671E
+t1335621775
+s26398
+
+N/Users/User/Documents/FinalProject/Classes/PatientController.h
+c000000004F948392000000000000019B
+t1335133074
+s411
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/PatientController.m
+c000000004F9BFC3F0000000000001A3F
+t1335622719
+s6719
+i"PatientController.h"
+i"Employee.h"
+
+N/Users/User/Documents/FinalProject/Classes/PatientController.xib
+c000000004F9481B30000000000001C7E
+t1335132595
+s7294
+
+N/Users/User/Documents/FinalProject/Classes/PersonalProfile.h
+c000000004F9C1382000000000000016A
+t1335628674
+s362
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/PersonalProfile.m
+c000000004F9C14EC0000000000000DF7
+t1335629036
+s3575
+i"PersonalProfile.h"
+i"Employee.h"
+i"AddressProfile.h"
+
+N/Users/User/Documents/FinalProject/Classes/PersonalProfile.xib
+c000000004F9C15B0000000000000B741
+t1335629232
+s46913
+
+N/Users/User/Documents/FinalProject/Classes/Question.h
+c000000004F99D9410000000000000370
+t1335482689
+s880
+i<Foundation/Foundation.h>
+
+N/Users/User/Documents/FinalProject/Classes/Question.m
+c000000004F99C37200000000000001A5
+t1335477106
+s421
+i"Question.h"
+
+N/Users/User/Documents/FinalProject/Classes/ResultsPage.h
+c000000004F9B62A8000000000000028E
+t1335583400
+s654
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/ResultsPage.m
+c000000004F9B61950000000000000696
+t1335583125
+s1686
+i"ResultsPage.h"
+
+N/Users/User/Documents/FinalProject/Classes/ResultsPage.xib
+c000000004F9B62FC0000000000007A0F
+t1335583484
+s31247
+
+N/Users/User/Documents/FinalProject/Classes/RootViewController.h
+c000000004F89875B0000000000000151
+t1334413147
+s337
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/RootViewController.m
+c000000004F93388400000000000016F2
+t1335048324
+s5874
+i"RootViewController.h"
+i"FinalAction.h"
+i"LoginPage.h"
+i"AddUserController.h"
+
+N/Users/User/Documents/FinalProject/Classes/ScoreValue.h
+c000000004F9B59DD000000000000019A
+t1335581149
+s410
+i<Foundation/Foundation.h>
+
+N/Users/User/Documents/FinalProject/Classes/ScoreValue.m
+c000000004F9B5B8E00000000000001E9
+t1335581582
+s489
+i"ScoreValue.h"
+
+N/Users/User/Documents/FinalProject/Classes/SegmentManagingViewController.h
+c000000004F9C0016000000000000033A
+t1335623702
+s826
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/SegmentManagingViewController.m
+c000000004F9C19E4000000000000216F
+t1335630308
+s8559
+i"SegmentManagingViewController.h"
+i"LoginPage.h"
+i"PatientController.h"
+i"FinalProjectAppDelegate.h"
+i<sqlite3.h>
+i"Employee.h"
+i"AddUserController.h"
+i"Address.h"
+i"PersonalProfile.h"
+i"AddressProfile.h"
+
+N/Users/User/Documents/FinalProject/Classes/Test1.h
+c000000004F9C23120000000000000287
+t1335632658
+s647
+i<Foundation/Foundation.h>
+
+N/Users/User/Documents/FinalProject/Classes/Test1.m
+c000000004F9C230C0000000000000183
+t1335632652
+s387
+i"Test1.h"
+
+N/Users/User/Documents/FinalProject/Classes/TestController.h
+c000000004F9AF1BB00000000000001C3
+t1335554491
+s451
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/TestController.m
+c000000004F9C1BC3000000000000105C
+t1335630787
+s4188
+i"TestController.h"
+i"XMLTestParser.h"
+i"FinalProjectAppDelegate.h"
+i"CategoryCount.h"
+i"TestDetailTableController.h"
+
+N/Users/User/Documents/FinalProject/Classes/TestController.xib
+c000000004F9AEC7B00000000000085AA
+t1335553147
+s34218
+
+N/Users/User/Documents/FinalProject/Classes/TestDetail.h
+c000000004F9C243A00000000000003AD
+t1335632954
+s941
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/TestDetail.m
+c000000004F9C24140000000000001A4D
+t1335632916
+s6733
+i"TestDetail.h"
+i"FinalProjectAppDelegate.h"
+i"Test1.h"
+i"Question.h"
+i"TestResult.h"
+i"ResultsPage.h"
+i"ScoreValue.h"
+
+N/Users/User/Documents/FinalProject/Classes/TestDetail.xib
+c000000004F9B1FE2000000000000A038
+t1335566306
+s41016
+
+N/Users/User/Documents/FinalProject/Classes/TestDetailTableController.h
+c000000004F9C1C110000000000000208
+t1335630865
+s520
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/TestDetailTableController.m
+c000000004F9C23600000000000001641
+t1335632736
+s5697
+i"TestDetailTableController.h"
+i"XMLTestParser.h"
+i"Test1.h"
+i"FinalProjectAppDelegate.h"
+i"TestDetail.h"
+
+N/Users/User/Documents/FinalProject/Classes/TestDetailTableController.xib
+c000000004F9ADB490000000000001C96
+t1335548745
+s7318
+
+N/Users/User/Documents/FinalProject/Classes/TestResult.h
+c000000004F9B4E610000000000000178
+t1335578209
+s376
+i<Foundation/Foundation.h>
+
+N/Users/User/Documents/FinalProject/Classes/TestResult.m
+c000000004F9B3F5000000000000000EC
+t1335574352
+s236
+i"TestResult.h"
+
+N/Users/User/Documents/FinalProject/Classes/XMLTestParser.h
+c000000004F9C2318000000000000022D
+t1335632664
+s557
+i<Foundation/Foundation.h>
+
+N/Users/User/Documents/FinalProject/Classes/XMLTestParser.m
+c000000004F9C23420000000000001081
+t1335632706
+s4225
+i"XMLTestParser.h"
+i"FinalProjectAppDelegate.h"
+i"Test1.h"
+i"Question.h"
+i"ScoreValue.h"
+i"CategoryCount.h"
+
+N/Users/User/Documents/FinalProject/Classes/captchaPage.h
+c000000004F9C0EE300000000000000E7
+t1335627491
+s231
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/captchaPage.m
+c000000004F9C0EE300000000000005A4
+t1335627491
+s1444
+i"captchaPage.h"
+
+N/Users/User/Documents/FinalProject/Classes/captchaPage.xib
+c000000004F9C141C0000000000004703
+t1335628828
+s18179
+
+N/Users/User/Documents/FinalProject/Classes/firstPage.h
+c000000004F939AB700000000000000E3
+t1335073463
+s227
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/Classes/firstPage.m
+c000000004F939AB7000000000000059E
+t1335073463
+s1438
+i"firstPage.h"
+
+N/Users/User/Documents/FinalProject/Classes/firstPage.xib
+c000000004F939DC50000000000005058
+t1335074245
+s20568
+
+N/Users/User/Documents/FinalProject/FinalProject_Prefix.pch
+c000000004F9C2810000000000000014A
+t1335633936
+s330
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/MainWindow.xib
+c000000004F88E1A30000000000006008
+t1334370723
+s24584
+
+N/Users/User/Documents/FinalProject/RootViewController.xib
+c000000004F88E1A30000000000004457
+t1334370723
+s17495
+
+N/Users/User/Documents/FinalProject/WakeUp.jpg
+c000000004F9A19700000000000048148
+t1335499120
+s295240
+
+N/Users/User/Documents/FinalProject/addiction.jpg
+c000000004F9A1B140000000000001CCA
+t1335499540
+s7370
+
+N/Users/User/Documents/FinalProject/addiction2.jpg
+c000000004F9A1B260000000000001C81
+t1335499558
+s7297
+
+N/Users/User/Documents/FinalProject/advice.html
+c000000004F9B42D60000000000001F1D
+t1335575254
+s7965
+
+N/Users/User/Documents/FinalProject/anxietyImage.jpg
+c000000004F9A256B0000000000000C47
+t1335502187
+s3143
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app
+t2
+s0
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app.dSYM
+t2
+s0
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/AddUserController.nib
+t1335634193
+s8845
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/AddressProfile.nib
+t1335634193
+s4917
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/CategoryViewController.nib
+t1335634195
+s3148
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/CountryPicker.nib
+t1335634196
+s2194
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/CreateAddressController.nib
+t1335634196
+s6744
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/DatePickerController.nib
+t1335634198
+s2283
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject
+t2
+s0
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/HomePage.nib
+t1335634199
+s1516
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/Info.plist
+t1335634190
+s611
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/LoginPage.nib
+t1335634199
+s3885
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/MainWindow.nib
+t1335634191
+s2461
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/PatientController.nib
+t1335634200
+s1516
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/PersonalProfile.nib
+t1335634201
+s7534
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/PkgInfo
+t1335634190
+s8
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/ResultsPage.nib
+t1335634202
+s4562
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/RootViewController.nib
+t1335634192
+s1518
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/TestController.nib
+t1335634202
+s5364
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/TestDetail.nib
+t1335634203
+s6440
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/TestDetailTableController.nib
+t1335634204
+s1516
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/WakeUp.jpg
+t1335634192
+s295240
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/addiction.jpg
+t1335634192
+s7370
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/addiction2.jpg
+t1335634192
+s7297
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/advice.html
+t1335634192
+s7965
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/anxietyImage.jpg
+t1335634192
+s3143
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/captchaPage.nib
+t1335634194
+s1782
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/doctorAdvice.jpg
+t1335634192
+s5860
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/evaluation.jpg
+t1335634192
+s6550
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/finalProject.db
+t1335634192
+s6144
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/firstPage.nib
+t1335634198
+s2661
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/images.jpg
+t1335634192
+s4970
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/manicdepressionsigns.jpg
+t1335634192
+s36054
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/parenting.jpg
+t1335634192
+s7218
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/personality.jpg
+t1335634192
+s8879
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/personality2.jpg
+t1335634192
+s83540
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/radio_sel.jpg
+t1335634192
+s1786
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/radio_unsel.jpg
+t1335634192
+s1484
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/sardinia.jpg
+t1335634192
+s88475
+
+N/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/thoughts.jpg
+t1335634192
+s6346
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/AddUserController.o
+t1335634206
+s74120
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Address.o
+t1335634205
+s20596
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/AddressProfile.o
+t1335634206
+s41800
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CategoryCount.o
+t1335634206
+s8864
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CategoryViewController.o
+t1335634206
+s43592
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CountryPicker.o
+t1335634206
+s52088
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CreateAddressController.o
+t1335634206
+s77200
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/DatePickerController.o
+t1335634206
+s42840
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Employee.o
+t1335634207
+s28112
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalAction.o
+t1335634207
+s11204
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProject.LinkFileList
+c000000004F9C290E0000000000000F99
+t1335634190
+s3993
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProjectAppDelegate.o
+t1335634205
+s61776
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/HomePage.o
+t1335634207
+s49272
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/LoginPage.o
+t1335634207
+s57788
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/PatientController.o
+t1335634207
+s54064
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/PersonalProfile.o
+t1335634207
+s47676
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Question.o
+t1335634207
+s15756
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/ResultsPage.o
+t1335634208
+s47080
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/RootViewController.o
+t1335634205
+s48328
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/ScoreValue.o
+t1335634208
+s9688
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/SegmentManagingViewController.o
+t1335634208
+s73064
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Test1.o
+t1335634208
+s12156
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestController.o
+t1335634208
+s56800
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestDetail.o
+t1335634208
+s73248
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestDetailTableController.o
+t1335634209
+s60620
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestResult.o
+t1335634209
+s7720
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/XMLTestParser.o
+t1335634209
+s60900
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/captchaPage.o
+t1335634206
+s37928
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/firstPage.o
+t1335634207
+s37888
+
+N/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/main.o
+t1335634205
+s6304
+
+N/Users/User/Documents/FinalProject/doctorAdvice.jpg
+c000000004F9B424000000000000016E4
+t1335575104
+s5860
+
+N/Users/User/Documents/FinalProject/evaluation.jpg
+c000000004F9B431D0000000000001996
+t1335575325
+s6550
+
+N/Users/User/Documents/FinalProject/finalProject.db
+c000000004F9B9A040000000000001800
+t1335597572
+s6144
+
+N/Users/User/Documents/FinalProject/images.jpg
+c000000004F9A1A70000000000000136A
+t1335499376
+s4970
+
+N/Users/User/Documents/FinalProject/main.m
+c000000004F88E1A30000000000000176
+t1334370723
+s374
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/FinalProject/manicdepressionsigns.jpg
+c000000004F9A17DE0000000000008CD6
+t1335498718
+s36054
+
+N/Users/User/Documents/FinalProject/parenting.jpg
+c000000004F9A292E0000000000001C32
+t1335503150
+s7218
+
+N/Users/User/Documents/FinalProject/personality.jpg
+c000000004F9A182000000000000022AF
+t1335498784
+s8879
+
+N/Users/User/Documents/FinalProject/personality2.jpg
+c000000004F9A19FA0000000000014654
+t1335499258
+s83540
+
+N/Users/User/Documents/FinalProject/radio_sel.jpg
+c000000004F9AFEF800000000000006FA
+t1335557880
+s1786
+
+N/Users/User/Documents/FinalProject/radio_unsel.jpg
+c000000004F9AFF0B00000000000005CC
+t1335557899
+s1484
+
+N/Users/User/Documents/FinalProject/sardinia.jpg
+c000000004F0208A4000000000001599B
+t1325533348
+s88475
+
+N/Users/User/Documents/FinalProject/thoughts.jpg
+c000000004F9A286000000000000018CA
+t1335502944
+s6346
+
+N/var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch.gch
+t1335634205
+s15814064
+
+NFinalProject-Info.plist
+c000000004F9C2810000000000000038D
+t1335633936
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies357326990#357326990#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/AddUserController.o /Users/User/Documents/FinalProject/Classes/AddUserController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327006.025588
+e357327006.197619
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/AddUserController.o
+x/Users/User/Documents/FinalProject/Classes/AddUserController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/User/Documents/FinalProject/Classes/AddUserController.m: In function '-[AddUserController toAddressPage:]':
+o/Users/User/Documents/FinalProject/Classes/AddUserController.m:111: warning: 'AddUserController' may not respond to '-validateFirstView'
+o/Users/User/Documents/FinalProject/Classes/AddUserController.m:111: warning: (Messages without a matching method signature
+o/Users/User/Documents/FinalProject/Classes/AddUserController.m:111: warning: will be assumed to return 'id' and accept
+o/Users/User/Documents/FinalProject/Classes/AddUserController.m:111: warning: '...' as arguments.)
+o/Users/User/Documents/FinalProject/Classes/AddUserController.m: In function '-[AddUserController validatePassword:]':
+o/Users/User/Documents/FinalProject/Classes/AddUserController.m:184: warning: incompatible Objective-C types assigning 'struct NSCharacterSet *', expected 'struct NSMutableCharacterSet *'
+o/Users/User/Documents/FinalProject/Classes/AddUserController.m: In function '-[AddUserController validateFirstView]':
+o/Users/User/Documents/FinalProject/Classes/AddUserController.m:302: warning: 'AddUserController' may not respond to '-validateRole'
+lSLF07#2@70"Compile /Users/User/Documents/FinalProject/Classes/AddUserController.m357327006#357327006#0(1147"/Users/User/Documents/FinalProject/Classes/AddUserController.m: In function '-[AddUserController toAddressPage:]':/Users/User/Documents/FinalProject/Classes/AddUserController.m:111: warning: 'AddUserController' may not respond to '-validateFirstView'/Users/User/Documents/FinalProject/Classes/AddUserController.m:111: warning: (Messages without a matching method signature/Users/User/Documents/FinalProject/Classes/AddUserController.m:111: warning: will be assumed to return 'id' and accept/Users/User/Documents/FinalProject/Classes/AddUserController.m:111: warning: '...' as arguments.)/Users/User/Documents/FinalProject/Classes/AddUserController.m: In function '-[AddUserController validatePassword:]':/Users/User/Documents/FinalProject/Classes/AddUserController.m:184: warning: incompatible Objective-C types assigning 'struct NSCharacterSet *', expected 'struct NSMutableCharacterSet *'/Users/User/Documents/FinalProject/Classes/AddUserController.m: In function '-[AddUserController validateFirstView]':/Users/User/Documents/FinalProject/Classes/AddUserController.m:302: warning: 'AddUserController' may not respond to '-validateRole'4(22@59"'AddUserController' may not respond to '-validateFirstView'357327006#115#137#0(6@62"/Users/User/Documents/FinalProject/Classes/AddUserController.m357312717#111#0#111#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)357327006#252#123#0(6@62"/Users/User/Documents/FinalProject/Classes/AddUserController.m357312717#111#0#111#0#0"0(22@109"Incompatible Objective-C types assigning 'struct NSCharacterSet *', expected 'struct NSMutableCharacterSet *'357327006#710#187#0(6@62"/Users/User/Documents/FinalProject/Classes/AddUserController.m357312717#184#0#184#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@54"'AddUserController' may not respond to '-validateRole'357327006#1015#132#0(6@62"/Users/User/Documents/FinalProject/Classes/AddUserController.m357312717#302#0#302#0#26"'*' may not respond to '*'0(0#0#62"/Users/User/Documents/FinalProject/Classes/AddUserController.m8607474656#2004"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/AddUserController.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/AddUserController.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Address.o /Users/User/Documents/FinalProject/Classes/Address.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327005.800088
+e357327005.895603
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Address.o
+x/Users/User/Documents/FinalProject/Classes/Address.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/User/Documents/FinalProject/Classes/Address.m357327005#357327005#0(0"0(0#0#52"/Users/User/Documents/FinalProject/Classes/Address.m8606414432#1984"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/Address.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Address.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/AddressProfile.o /Users/User/Documents/FinalProject/Classes/AddressProfile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327005.895730
+e357327006.025471
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/AddressProfile.o
+x/Users/User/Documents/FinalProject/Classes/AddressProfile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/User/Documents/FinalProject/Classes/AddressProfile.m357327005#357327006#0(0"0(0#0#59"/Users/User/Documents/FinalProject/Classes/AddressProfile.m8599447360#1998"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/AddressProfile.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/AddressProfile.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CategoryCount.o /Users/User/Documents/FinalProject/Classes/CategoryCount.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327006.301181
+e357327006.394769
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CategoryCount.o
+x/Users/User/Documents/FinalProject/Classes/CategoryCount.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/User/Documents/FinalProject/Classes/CategoryCount.m357327006#357327006#0(0"0(0#0#58"/Users/User/Documents/FinalProject/Classes/CategoryCount.m8609589152#1996"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/CategoryCount.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CategoryCount.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CategoryViewController.o /Users/User/Documents/FinalProject/Classes/CategoryViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327006.394897
+e357327006.489707
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CategoryViewController.o
+x/Users/User/Documents/FinalProject/Classes/CategoryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/User/Documents/FinalProject/Classes/CategoryViewController.m357327006#357327006#0(0"0(0#0#67"/Users/User/Documents/FinalProject/Classes/CategoryViewController.m8607366816#2014"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/CategoryViewController.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CategoryViewController.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CountryPicker.o /Users/User/Documents/FinalProject/Classes/CountryPicker.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327006.489837
+e357327006.642499
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CountryPicker.o
+x/Users/User/Documents/FinalProject/Classes/CountryPicker.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/User/Documents/FinalProject/Classes/CountryPicker.m357327006#357327006#0(0"0(0#0#58"/Users/User/Documents/FinalProject/Classes/CountryPicker.m8607036672#1996"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/CountryPicker.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CountryPicker.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CreateAddressController.o /Users/User/Documents/FinalProject/Classes/CreateAddressController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327006.642613
+e357327006.852788
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CreateAddressController.o
+x/Users/User/Documents/FinalProject/Classes/CreateAddressController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/User/Documents/FinalProject/Classes/CreateAddressController.m: In function '-[CreateAddressController submitEmployee:]':
+o/Users/User/Documents/FinalProject/Classes/CreateAddressController.m:205: warning: 'CreateAddressController' may not respond to '-validateAddrView'
+o/Users/User/Documents/FinalProject/Classes/CreateAddressController.m:205: warning: (Messages without a matching method signature
+o/Users/User/Documents/FinalProject/Classes/CreateAddressController.m:205: warning: will be assumed to return 'id' and accept
+o/Users/User/Documents/FinalProject/Classes/CreateAddressController.m:205: warning: '...' as arguments.)
+o/Users/User/Documents/FinalProject/Classes/CreateAddressController.m:196: warning: unused variable 'radio2'
+o/Users/User/Documents/FinalProject/Classes/CreateAddressController.m:195: warning: unused variable 'radio1'
+lSLF07#2@76"Compile /Users/User/Documents/FinalProject/Classes/CreateAddressController.m357327006#357327006#0(850"/Users/User/Documents/FinalProject/Classes/CreateAddressController.m: In function '-[CreateAddressController submitEmployee:]':/Users/User/Documents/FinalProject/Classes/CreateAddressController.m:205: warning: 'CreateAddressController' may not respond to '-validateAddrView'/Users/User/Documents/FinalProject/Classes/CreateAddressController.m:205: warning: (Messages without a matching method signature/Users/User/Documents/FinalProject/Classes/CreateAddressController.m:205: warning: will be assumed to return 'id' and accept/Users/User/Documents/FinalProject/Classes/CreateAddressController.m:205: warning: '...' as arguments.)/Users/User/Documents/FinalProject/Classes/CreateAddressController.m:196: warning: unused variable 'radio2'/Users/User/Documents/FinalProject/Classes/CreateAddressController.m:195: warning: unused variable 'radio1'4(22@64"'CreateAddressController' may not respond to '-validateAddrView'357327006#128#148#0(6@68"/Users/User/Documents/FinalProject/Classes/CreateAddressController.m357313936#205#0#205#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)357327006#276#129#0(6@68"/Users/User/Documents/FinalProject/Classes/CreateAddressController.m357313936#205#0#205#0#0"0(22@24"Unused variable 'radio2'357327006#634#108#0(6@68"/Users/User/Documents/FinalProject/Classes/CreateAddressController.m357313936#196#0#196#0#19"unused variable '*'0(22@24"Unused variable 'radio1'357327006#742#108#0(6@68"/Users/User/Documents/FinalProject/Classes/CreateAddressController.m357313936#195#0#195#0#19"unused variable '*'0(0#0#68"/Users/User/Documents/FinalProject/Classes/CreateAddressController.m8609477824#2016"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/CreateAddressController.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/CreateAddressController.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/DatePickerController.o /Users/User/Documents/FinalProject/Classes/DatePickerController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327006.853355
+e357327006.957165
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/DatePickerController.o
+x/Users/User/Documents/FinalProject/Classes/DatePickerController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/User/Documents/FinalProject/Classes/DatePickerController.m357327006#357327006#0(0"0(0#0#65"/Users/User/Documents/FinalProject/Classes/DatePickerController.m8606624672#2010"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/DatePickerController.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/DatePickerController.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Employee.o /Users/User/Documents/FinalProject/Classes/Employee.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327006.957365
+e357327007.117149
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Employee.o
+x/Users/User/Documents/FinalProject/Classes/Employee.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/User/Documents/FinalProject/Classes/Employee.m: In function '-[Employee encodeWithCoder:]':
+o/Users/User/Documents/FinalProject/Classes/Employee.m:62: warning: passing argument 1 of 'encodeObject:forKey:' makes pointer from integer without a cast
+o/Users/User/Documents/FinalProject/Classes/Employee.m: In function '-[Employee initWithCoder:]':
+o/Users/User/Documents/FinalProject/Classes/Employee.m:74: warning: initialization makes integer from pointer without a cast
+lSLF07#2@61"Compile /Users/User/Documents/FinalProject/Classes/Employee.m357327006#357327007#0(474"/Users/User/Documents/FinalProject/Classes/Employee.m: In function '-[Employee encodeWithCoder:]':/Users/User/Documents/FinalProject/Classes/Employee.m:62: warning: passing argument 1 of 'encodeObject:forKey:' makes pointer from integer without a cast/Users/User/Documents/FinalProject/Classes/Employee.m: In function '-[Employee initWithCoder:]':/Users/User/Documents/FinalProject/Classes/Employee.m:74: warning: initialization makes integer from pointer without a cast2(22@86"Passing argument 1 of 'encodeObject:forKey:' makes pointer from integer without a cast357327007#99#154#0(6@53"/Users/User/Documents/FinalProject/Classes/Employee.m357323988#62#0#62#0#0"0(22@56"Initialization makes integer from pointer without a cast357327007#350#124#0(6@53"/Users/User/Documents/FinalProject/Classes/Employee.m357323988#74#0#74#0#0"0(0#0#53"/Users/User/Documents/FinalProject/Classes/Employee.m8600001888#1986"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/Employee.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Employee.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalAction.o /Users/User/Documents/FinalProject/Classes/FinalAction.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327007.117344
+e357327007.197005
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalAction.o
+x/Users/User/Documents/FinalProject/Classes/FinalAction.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/User/Documents/FinalProject/Classes/FinalAction.m357327007#357327007#0(0"0(0#0#56"/Users/User/Documents/FinalProject/Classes/FinalAction.m8607562688#1992"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/FinalAction.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalAction.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProjectAppDelegate.o /Users/User/Documents/FinalProject/Classes/FinalProjectAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327005.567125
+e357327005.673139
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProjectAppDelegate.o
+x/Users/User/Documents/FinalProject/Classes/FinalProjectAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/User/Documents/FinalProject/Classes/FinalProjectAppDelegate.m357327005#357327005#0(0"0(0#0#68"/Users/User/Documents/FinalProject/Classes/FinalProjectAppDelegate.m8607653856#2016"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/FinalProjectAppDelegate.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProjectAppDelegate.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/HomePage.o /Users/User/Documents/FinalProject/Classes/HomePage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327007.319641
+e357327007.443714
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/HomePage.o
+x/Users/User/Documents/FinalProject/Classes/HomePage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/User/Documents/FinalProject/Classes/HomePage.m: In function '-[HomePage tableView:didSelectRowAtIndexPath:]':
+o/Users/User/Documents/FinalProject/Classes/HomePage.m:143: warning: unused variable 'title'
+o/Users/User/Documents/FinalProject/Classes/HomePage.m:140: warning: unused variable 'section'
+lSLF07#2@61"Compile /Users/User/Documents/FinalProject/Classes/HomePage.m357327007#357327007#0(303"/Users/User/Documents/FinalProject/Classes/HomePage.m: In function '-[HomePage tableView:didSelectRowAtIndexPath:]':/Users/User/Documents/FinalProject/Classes/HomePage.m:143: warning: unused variable 'title'/Users/User/Documents/FinalProject/Classes/HomePage.m:140: warning: unused variable 'section'2(22@23"Unused variable 'title'357327007#117#92#0(6@53"/Users/User/Documents/FinalProject/Classes/HomePage.m356741490#143#0#143#0#19"unused variable '*'0(22@25"Unused variable 'section'357327007#209#94#0(6@53"/Users/User/Documents/FinalProject/Classes/HomePage.m356741490#140#0#140#0#19"unused variable '*'0(0#0#53"/Users/User/Documents/FinalProject/Classes/HomePage.m8603731168#1986"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/HomePage.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/HomePage.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/LoginPage.o /Users/User/Documents/FinalProject/Classes/LoginPage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327007.443846
+e357327007.597150
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/LoginPage.o
+x/Users/User/Documents/FinalProject/Classes/LoginPage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/User/Documents/FinalProject/Classes/LoginPage.m357327007#357327007#0(0"0(0#0#54"/Users/User/Documents/FinalProject/Classes/LoginPage.m8609343808#1988"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/LoginPage.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/LoginPage.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/PatientController.o /Users/User/Documents/FinalProject/Classes/PatientController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327007.597298
+e357327007.722790
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/PatientController.o
+x/Users/User/Documents/FinalProject/Classes/PatientController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/User/Documents/FinalProject/Classes/PatientController.m357327007#357327007#0(0"0(0#0#62"/Users/User/Documents/FinalProject/Classes/PatientController.m8607232192#2004"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/PatientController.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/PatientController.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/PersonalProfile.o /Users/User/Documents/FinalProject/Classes/PersonalProfile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327007.722915
+e357327007.879037
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/PersonalProfile.o
+x/Users/User/Documents/FinalProject/Classes/PersonalProfile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/User/Documents/FinalProject/Classes/PersonalProfile.m357327007#357327007#0(0"0(0#0#60"/Users/User/Documents/FinalProject/Classes/PersonalProfile.m8602751328#2000"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/PersonalProfile.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/PersonalProfile.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Question.o /Users/User/Documents/FinalProject/Classes/Question.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327007.879161
+e357327007.968578
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Question.o
+x/Users/User/Documents/FinalProject/Classes/Question.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/User/Documents/FinalProject/Classes/Question.m357327007#357327007#0(0"0(0#0#53"/Users/User/Documents/FinalProject/Classes/Question.m8607536320#1986"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/Question.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Question.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/ResultsPage.o /Users/User/Documents/FinalProject/Classes/ResultsPage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327007.968702
+e357327008.102490
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/ResultsPage.o
+x/Users/User/Documents/FinalProject/Classes/ResultsPage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/User/Documents/FinalProject/Classes/ResultsPage.m357327007#357327008#0(0"0(0#0#56"/Users/User/Documents/FinalProject/Classes/ResultsPage.m8607336064#1992"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/ResultsPage.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/ResultsPage.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/RootViewController.o /Users/User/Documents/FinalProject/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327005.673295
+e357327005.799965
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/RootViewController.o
+x/Users/User/Documents/FinalProject/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/User/Documents/FinalProject/Classes/RootViewController.m: In function '-[RootViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/User/Documents/FinalProject/Classes/RootViewController.m:155: warning: unused variable 'title'
+o/Users/User/Documents/FinalProject/Classes/RootViewController.m:152: warning: unused variable 'section'
+lSLF07#2@71"Compile /Users/User/Documents/FinalProject/Classes/RootViewController.m357327005#357327005#0(343"/Users/User/Documents/FinalProject/Classes/RootViewController.m: In function '-[RootViewController tableView:didSelectRowAtIndexPath:]':/Users/User/Documents/FinalProject/Classes/RootViewController.m:155: warning: unused variable 'title'/Users/User/Documents/FinalProject/Classes/RootViewController.m:152: warning: unused variable 'section'2(22@23"Unused variable 'title'357327005#137#102#0(6@63"/Users/User/Documents/FinalProject/Classes/RootViewController.m356741124#155#0#155#0#19"unused variable '*'0(22@25"Unused variable 'section'357327005#239#104#0(6@63"/Users/User/Documents/FinalProject/Classes/RootViewController.m356741124#152#0#152#0#19"unused variable '*'0(0#0#63"/Users/User/Documents/FinalProject/Classes/RootViewController.m8607202688#2006"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/RootViewController.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/ScoreValue.o /Users/User/Documents/FinalProject/Classes/ScoreValue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327008.102619
+e357327008.195451
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/ScoreValue.o
+x/Users/User/Documents/FinalProject/Classes/ScoreValue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/User/Documents/FinalProject/Classes/ScoreValue.m357327008#357327008#0(0"0(0#0#55"/Users/User/Documents/FinalProject/Classes/ScoreValue.m8607465856#1990"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/ScoreValue.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/ScoreValue.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/SegmentManagingViewController.o /Users/User/Documents/FinalProject/Classes/SegmentManagingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327008.195578
+e357327008.383757
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/SegmentManagingViewController.o
+x/Users/User/Documents/FinalProject/Classes/SegmentManagingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/User/Documents/FinalProject/Classes/SegmentManagingViewController.m357327008#357327008#0(0"0(0#0#74"/Users/User/Documents/FinalProject/Classes/SegmentManagingViewController.m8606554976#2028"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/SegmentManagingViewController.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/SegmentManagingViewController.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Test1.o /Users/User/Documents/FinalProject/Classes/Test1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327008.383952
+e357327008.478555
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Test1.o
+x/Users/User/Documents/FinalProject/Classes/Test1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/User/Documents/FinalProject/Classes/Test1.m357327008#357327008#0(0"0(0#0#50"/Users/User/Documents/FinalProject/Classes/Test1.m8607502880#1980"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/Test1.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/Test1.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestController.o /Users/User/Documents/FinalProject/Classes/TestController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327008.478690
+e357327008.660190
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestController.o
+x/Users/User/Documents/FinalProject/Classes/TestController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/User/Documents/FinalProject/Classes/TestController.m357327008#357327008#0(0"0(0#0#59"/Users/User/Documents/FinalProject/Classes/TestController.m8606966240#1998"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/TestController.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestController.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestDetail.o /Users/User/Documents/FinalProject/Classes/TestDetail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327008.660415
+e357327008.923139
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestDetail.o
+x/Users/User/Documents/FinalProject/Classes/TestDetail.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/User/Documents/FinalProject/Classes/TestDetail.m: In function '-[TestDetail nextPage:]':
+o/Users/User/Documents/FinalProject/Classes/TestDetail.m:72: warning: 'TestDetail' may not respond to '-validate'
+o/Users/User/Documents/FinalProject/Classes/TestDetail.m:72: warning: (Messages without a matching method signature
+o/Users/User/Documents/FinalProject/Classes/TestDetail.m:72: warning: will be assumed to return 'id' and accept
+o/Users/User/Documents/FinalProject/Classes/TestDetail.m:72: warning: '...' as arguments.)
+o/Users/User/Documents/FinalProject/Classes/TestDetail.m:75: warning: 'TestDetail' may not respond to '-getAnswerSelected'
+o/Users/User/Documents/FinalProject/Classes/TestDetail.m:75: warning: passing argument 1 of 'setSelectedOption:' makes integer from pointer without a cast
+o/Users/User/Documents/FinalProject/Classes/TestDetail.m:94: warning: 'TestDetail' may not respond to '-getScore:'
+o/Users/User/Documents/FinalProject/Classes/TestDetail.m:94: warning: initialization makes integer from pointer without a cast
+o/Users/User/Documents/FinalProject/Classes/TestDetail.m:95: warning: 'TestDetail' may not respond to '-findOuput:'
+lSLF07#2@63"Compile /Users/User/Documents/FinalProject/Classes/TestDetail.m357327008#357327008#0(1156"/Users/User/Documents/FinalProject/Classes/TestDetail.m: In function '-[TestDetail nextPage:]':/Users/User/Documents/FinalProject/Classes/TestDetail.m:72: warning: 'TestDetail' may not respond to '-validate'/Users/User/Documents/FinalProject/Classes/TestDetail.m:72: warning: (Messages without a matching method signature/Users/User/Documents/FinalProject/Classes/TestDetail.m:72: warning: will be assumed to return 'id' and accept/Users/User/Documents/FinalProject/Classes/TestDetail.m:72: warning: '...' as arguments.)/Users/User/Documents/FinalProject/Classes/TestDetail.m:75: warning: 'TestDetail' may not respond to '-getAnswerSelected'/Users/User/Documents/FinalProject/Classes/TestDetail.m:75: warning: passing argument 1 of 'setSelectedOption:' makes integer from pointer without a cast/Users/User/Documents/FinalProject/Classes/TestDetail.m:94: warning: 'TestDetail' may not respond to '-getScore:'/Users/User/Documents/FinalProject/Classes/TestDetail.m:94: warning: initialization makes integer from pointer without a cast/Users/User/Documents/FinalProject/Classes/TestDetail.m:95: warning: 'TestDetail' may not respond to '-findOuput:'7(22@43"'TestDetail' may not respond to '-validate'357327008#96#113#0(6@55"/Users/User/Documents/FinalProject/Classes/TestDetail.m357325716#72#0#72#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)357327008#209#115#0(6@55"/Users/User/Documents/FinalProject/Classes/TestDetail.m357325716#72#0#72#0#0"0(22@52"'TestDetail' may not respond to '-getAnswerSelected'357327008#525#122#0(6@55"/Users/User/Documents/FinalProject/Classes/TestDetail.m357325716#75#0#75#0#26"'*' may not respond to '*'0(22@84"Passing argument 1 of 'setSelectedOption:' makes integer from pointer without a cast357327008#647#154#0(6@55"/Users/User/Documents/FinalProject/Classes/TestDetail.m357325716#75#0#75#0#67"passing argument * of '*' makes integer from pointer without a cast0(22@44"'TestDetail' may not respond to '-getScore:'357327008#801#114#0(6@55"/Users/User/Documents/FinalProject/Classes/TestDetail.m357325716#94#0#94#0#26"'*' may not respond to '*'0(22@56"Initialization makes integer from pointer without a cast357327008#915#126#0(6@55"/Users/User/Documents/FinalProject/Classes/TestDetail.m357325716#94#0#94#0#0"0(22@45"'TestDetail' may not respond to '-findOuput:'357327008#1041#115#0(6@55"/Users/User/Documents/FinalProject/Classes/TestDetail.m357325716#95#0#95#0#26"'*' may not respond to '*'0(0#0#55"/Users/User/Documents/FinalProject/Classes/TestDetail.m8609295136#1990"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/TestDetail.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestDetail.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestDetailTableController.o /Users/User/Documents/FinalProject/Classes/TestDetailTableController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327008.923305
+e357327009.037701
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestDetailTableController.o
+x/Users/User/Documents/FinalProject/Classes/TestDetailTableController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/User/Documents/FinalProject/Classes/TestDetailTableController.m357327008#357327009#0(0"0(0#0#70"/Users/User/Documents/FinalProject/Classes/TestDetailTableController.m8603538976#2020"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/TestDetailTableController.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestDetailTableController.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestResult.o /Users/User/Documents/FinalProject/Classes/TestResult.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327009.037831
+e357327009.130087
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestResult.o
+x/Users/User/Documents/FinalProject/Classes/TestResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/User/Documents/FinalProject/Classes/TestResult.m357327009#357327009#0(0"0(0#0#55"/Users/User/Documents/FinalProject/Classes/TestResult.m8607422016#1990"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/TestResult.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/TestResult.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/XMLTestParser.o /Users/User/Documents/FinalProject/Classes/XMLTestParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327009.130205
+e357327009.305463
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/XMLTestParser.o
+x/Users/User/Documents/FinalProject/Classes/XMLTestParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/User/Documents/FinalProject/Classes/XMLTestParser.m357327009#357327009#0(0"0(0#0#58"/Users/User/Documents/FinalProject/Classes/XMLTestParser.m8605863968#1996"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/XMLTestParser.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/XMLTestParser.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/captchaPage.o /Users/User/Documents/FinalProject/Classes/captchaPage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327006.197749
+e357327006.301057
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/captchaPage.o
+x/Users/User/Documents/FinalProject/Classes/captchaPage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/User/Documents/FinalProject/Classes/captchaPage.m357327006#357327006#0(0"0(0#0#56"/Users/User/Documents/FinalProject/Classes/captchaPage.m8605703136#1992"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/captchaPage.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/captchaPage.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/firstPage.o /Users/User/Documents/FinalProject/Classes/firstPage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327007.197133
+e357327007.319515
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/firstPage.o
+x/Users/User/Documents/FinalProject/Classes/firstPage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/User/Documents/FinalProject/Classes/firstPage.m357327007#357327007#0(0"0(0#0#54"/Users/User/Documents/FinalProject/Classes/firstPage.m8607130560#1988"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/Classes/firstPage.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/firstPage.o0#
+
+CCompileC build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/main.o /Users/User/Documents/FinalProject/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327005.344686
+e357327005.567001
+r1
+xCompileC
+xbuild/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/main.o
+x/Users/User/Documents/FinalProject/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/User/Documents/FinalProject/main.m357327005#357327005#0(0"0(0#0#41"/Users/User/Documents/FinalProject/main.m8605958496#1970"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -include /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch -c /Users/User/Documents/FinalProject/main.m -o /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/AddUserController.xib
+s357326993.311782
+e357326994.024340
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/AddUserController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@40"CompileXIB Classes/AddUserController.xib357326993#357326994#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#64"/Users/User/Documents/FinalProject/Classes/AddUserController.xib8599182976#585"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/AddUserController.nib /Users/User/Documents/FinalProject/Classes/AddUserController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/AddressProfile.xib
+s357326992.305735
+e357326993.310777
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/AddressProfile.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@37"CompileXIB Classes/AddressProfile.xib357326992#357326993#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#61"/Users/User/Documents/FinalProject/Classes/AddressProfile.xib8607670304#579"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/AddressProfile.nib /Users/User/Documents/FinalProject/Classes/AddressProfile.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/CategoryViewController.xib
+s357326995.102612
+e357326995.723799
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/CategoryViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/User/Documents/FinalProject/Classes/CategoryViewController.xib:6: warning: The value specified for the "Highlighted" property is used only for display within Interface Builder and will not be present at runtime.
+lSLF07#2@45"CompileXIB Classes/CategoryViewController.xib357326995#357326995#0(260"/* com.apple.ibtool.document.warnings *//Users/User/Documents/FinalProject/Classes/CategoryViewController.xib:6: warning: The value specified for the "Highlighted" property is used only for display within Interface Builder and will not be present at runtime.1(22@136"The value specified for the "Highlighted" property is used only for display within Interface Builder and will not be present at runtime.357326995#18446744073709551615#0#0(6@69"/Users/User/Documents/FinalProject/Classes/CategoryViewController.xib357236934#6#0#6#0#0"0(0#0#69"/Users/User/Documents/FinalProject/Classes/CategoryViewController.xib8608995104#595"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/CategoryViewController.nib /Users/User/Documents/FinalProject/Classes/CategoryViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/CountryPicker.xib
+s357326995.723914
+e357326996.261887
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/CountryPicker.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@36"CompileXIB Classes/CountryPicker.xib357326995#357326996#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#60"/Users/User/Documents/FinalProject/Classes/CountryPicker.xib8607183968#577"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/CountryPicker.nib /Users/User/Documents/FinalProject/Classes/CountryPicker.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/CreateAddressController.xib
+s357326996.262002
+e357326996.970698
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/CreateAddressController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@46"CompileXIB Classes/CreateAddressController.xib357326996#357326996#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#70"/Users/User/Documents/FinalProject/Classes/CreateAddressController.xib8601467808#597"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/CreateAddressController.nib /Users/User/Documents/FinalProject/Classes/CreateAddressController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/DatePickerController.xib
+s357326996.970902
+e357326998.238614
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/DatePickerController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@43"CompileXIB Classes/DatePickerController.xib357326996#357326998#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#67"/Users/User/Documents/FinalProject/Classes/DatePickerController.xib8601252832#591"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/DatePickerController.nib /Users/User/Documents/FinalProject/Classes/DatePickerController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/HomePage.xib
+s357326998.860894
+e357326999.388153
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/HomePage.xib
+lSLF07#2@31"CompileXIB Classes/HomePage.xib357326998#357326999#0(0"0(0#0#55"/Users/User/Documents/FinalProject/Classes/HomePage.xib8600342624#567"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/HomePage.nib /Users/User/Documents/FinalProject/Classes/HomePage.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/LoginPage.xib
+s357326999.388379
+e357327000.010672
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/LoginPage.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@32"CompileXIB Classes/LoginPage.xib357326999#357327000#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#56"/Users/User/Documents/FinalProject/Classes/LoginPage.xib8606391456#569"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/LoginPage.nib /Users/User/Documents/FinalProject/Classes/LoginPage.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/PatientController.xib
+s357327000.010782
+e357327000.861053
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/PatientController.xib
+lSLF07#2@40"CompileXIB Classes/PatientController.xib357327000#357327000#0(0"0(0#0#64"/Users/User/Documents/FinalProject/Classes/PatientController.xib8604474816#585"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/PatientController.nib /Users/User/Documents/FinalProject/Classes/PatientController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/PersonalProfile.xib
+s357327000.861278
+e357327001.614379
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/PersonalProfile.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@38"CompileXIB Classes/PersonalProfile.xib357327000#357327001#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#62"/Users/User/Documents/FinalProject/Classes/PersonalProfile.xib8607668960#581"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/PersonalProfile.nib /Users/User/Documents/FinalProject/Classes/PersonalProfile.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/ResultsPage.xib
+s357327001.614488
+e357327002.227042
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/ResultsPage.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@34"CompileXIB Classes/ResultsPage.xib357327001#357327002#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#58"/Users/User/Documents/FinalProject/Classes/ResultsPage.xib8607413024#573"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/ResultsPage.nib /Users/User/Documents/FinalProject/Classes/ResultsPage.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/TestController.xib
+s357327002.227153
+e357327002.809760
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/TestController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@37"CompileXIB Classes/TestController.xib357327002#357327002#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#61"/Users/User/Documents/FinalProject/Classes/TestController.xib8604178016#579"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/TestController.nib /Users/User/Documents/FinalProject/Classes/TestController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/TestDetail.xib
+s357327002.809933
+e357327003.569560
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/TestDetail.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@33"CompileXIB Classes/TestDetail.xib357327002#357327003#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#57"/Users/User/Documents/FinalProject/Classes/TestDetail.xib8600796800#571"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/TestDetail.nib /Users/User/Documents/FinalProject/Classes/TestDetail.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/TestDetailTableController.xib
+s357327003.569669
+e357327004.091897
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/TestDetailTableController.xib
+lSLF07#2@48"CompileXIB Classes/TestDetailTableController.xib357327003#357327004#0(0"0(0#0#72"/Users/User/Documents/FinalProject/Classes/TestDetailTableController.xib8609107104#601"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/TestDetailTableController.nib /Users/User/Documents/FinalProject/Classes/TestDetailTableController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/captchaPage.xib
+s357326994.024452
+e357326995.102172
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/captchaPage.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@34"CompileXIB Classes/captchaPage.xib357326994#357326995#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#58"/Users/User/Documents/FinalProject/Classes/captchaPage.xib8605734240#573"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/captchaPage.nib /Users/User/Documents/FinalProject/Classes/captchaPage.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/Classes/firstPage.xib
+s357326998.238725
+e357326998.860701
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/Classes/firstPage.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@32"CompileXIB Classes/firstPage.xib357326998#357326998#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#56"/Users/User/Documents/FinalProject/Classes/firstPage.xib8606639680#569"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/firstPage.nib /Users/User/Documents/FinalProject/Classes/firstPage.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/MainWindow.xib
+s357326990.948074
+e357326991.543655
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib357326990#357326991#0(0"0(0#0#49"/Users/User/Documents/FinalProject/MainWindow.xib8604548256#563"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/MainWindow.nib /Users/User/Documents/FinalProject/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/User/Documents/FinalProject/RootViewController.xib
+s357326991.543778
+e357326992.216192
+r1
+xCompileXIB
+x/Users/User/Documents/FinalProject/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib357326991#357326992#0(0"0(0#0#57"/Users/User/Documents/FinalProject/RootViewController.xib31244212046397548#579"    cd /Users/User/Documents/FinalProject    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/RootViewController.nib /Users/User/Documents/FinalProject/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/WakeUp.jpg WakeUp.jpg
+s357326992.293638
+e357326992.368912
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/WakeUp.jpg
+xWakeUp.jpg
+lSLF07#2@15"Copy WakeUp.jpg357326992#357326992#0(0"0(0#0#45"/Users/User/Documents/FinalProject/WakeUp.jpg8599957664#461"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/WakeUp.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/addiction.jpg addiction.jpg
+s357326992.216483
+e357326992.248120
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/addiction.jpg
+xaddiction.jpg
+lSLF07#2@18"Copy addiction.jpg357326992#357326992#0(0"0(0#0#48"/Users/User/Documents/FinalProject/addiction.jpg8609068512#464"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/addiction.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/addiction2.jpg addiction2.jpg
+s357326992.218553
+e357326992.260418
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/addiction2.jpg
+xaddiction2.jpg
+lSLF07#2@19"Copy addiction2.jpg357326992#357326992#0(0"0(0#0#49"/Users/User/Documents/FinalProject/addiction2.jpg8608934496#465"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/addiction2.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/advice.html advice.html
+s357326992.220786
+e357326992.266198
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/advice.html
+xadvice.html
+lSLF07#2@16"Copy advice.html357326992#357326992#0(0"0(0#0#46"/Users/User/Documents/FinalProject/advice.html8607618240#462"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/advice.html /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/anxietyImage.jpg anxietyImage.jpg
+s357326992.222745
+e357326992.272524
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/anxietyImage.jpg
+xanxietyImage.jpg
+lSLF07#2@21"Copy anxietyImage.jpg357326992#357326992#0(0"0(0#0#51"/Users/User/Documents/FinalProject/anxietyImage.jpg8607359104#467"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/anxietyImage.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/doctorAdvice.jpg doctorAdvice.jpg
+s357326992.225296
+e357326992.278758
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/doctorAdvice.jpg
+xdoctorAdvice.jpg
+lSLF07#2@21"Copy doctorAdvice.jpg357326992#357326992#0(0"0(0#0#51"/Users/User/Documents/FinalProject/doctorAdvice.jpg8606908160#467"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/doctorAdvice.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/evaluation.jpg evaluation.jpg
+s357326992.227189
+e357326992.360119
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/evaluation.jpg
+xevaluation.jpg
+lSLF07#2@19"Copy evaluation.jpg357326992#357326992#0(0"0(0#0#49"/Users/User/Documents/FinalProject/evaluation.jpg8606316896#465"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/evaluation.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/finalProject.db finalProject.db
+s357326992.229572
+e357326992.355511
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/finalProject.db
+xfinalProject.db
+lSLF07#2@20"Copy finalProject.db357326992#357326992#0(0"0(0#0#50"/Users/User/Documents/FinalProject/finalProject.db8605954752#466"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/finalProject.db /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/images.jpg images.jpg
+s357326992.231452
+e357326992.293527
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/images.jpg
+ximages.jpg
+lSLF07#2@15"Copy images.jpg357326992#357326992#0(0"0(0#0#45"/Users/User/Documents/FinalProject/images.jpg8605823296#461"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/images.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/manicdepressionsigns.jpg manicdepressionsigns.jpg
+s357326992.233359
+e357326992.343523
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/manicdepressionsigns.jpg
+xmanicdepressionsigns.jpg
+lSLF07#2@29"Copy manicdepressionsigns.jpg357326992#357326992#0(0"0(0#0#59"/Users/User/Documents/FinalProject/manicdepressionsigns.jpg8605728512#475"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/manicdepressionsigns.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/parenting.jpg parenting.jpg
+s357326992.235985
+e357326992.253906
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/parenting.jpg
+xparenting.jpg
+lSLF07#2@18"Copy parenting.jpg357326992#357326992#0(0"0(0#0#48"/Users/User/Documents/FinalProject/parenting.jpg8604545728#464"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/parenting.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/personality.jpg personality.jpg
+s357326992.248264
+e357326992.305623
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/personality.jpg
+xpersonality.jpg
+lSLF07#2@20"Copy personality.jpg357326992#357326992#0(0"0(0#0#50"/Users/User/Documents/FinalProject/personality.jpg8604338784#466"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/personality.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/personality2.jpg personality2.jpg
+s357326992.254025
+e357326992.358552
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/personality2.jpg
+xpersonality2.jpg
+lSLF07#2@21"Copy personality2.jpg357326992#357326992#0(0"0(0#0#51"/Users/User/Documents/FinalProject/personality2.jpg8604176960#467"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/personality2.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/radio_sel.jpg radio_sel.jpg
+s357326992.260536
+e357326992.317627
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/radio_sel.jpg
+xradio_sel.jpg
+lSLF07#2@18"Copy radio_sel.jpg357326992#357326992#0(0"0(0#0#48"/Users/User/Documents/FinalProject/radio_sel.jpg8603892832#464"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/radio_sel.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/radio_unsel.jpg radio_unsel.jpg
+s357326992.266459
+e357326992.326589
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/radio_unsel.jpg
+xradio_unsel.jpg
+lSLF07#2@20"Copy radio_unsel.jpg357326992#357326992#0(0"0(0#0#50"/Users/User/Documents/FinalProject/radio_unsel.jpg8603690208#466"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/radio_unsel.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/sardinia.jpg sardinia.jpg
+s357326992.272642
+e357326992.359249
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/sardinia.jpg
+xsardinia.jpg
+lSLF07#2@17"Copy sardinia.jpg357326992#357326992#0(0"0(0#0#47"/Users/User/Documents/FinalProject/sardinia.jpg8601187360#463"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/sardinia.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/FinalProject.app/thoughts.jpg thoughts.jpg
+s357326992.278875
+e357326992.336854
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FinalProject.app/thoughts.jpg
+xthoughts.jpg
+lSLF07#2@17"Copy thoughts.jpg357326992#357326992#0(0"0(0#0#47"/Users/User/Documents/FinalProject/thoughts.jpg8601210304#463"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/User/Documents/FinalProject/thoughts.jpg /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app0#
+
+CGenerateDSYMFile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app.dSYM /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject
+r0
+
+CLd /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject normal i386
+s357327009.305619
+e357327009.802126
+r0
+xLd
+x/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject
+xnormal
+xi386
+oUndefined symbols:
+o  "_sqlite3_close", referenced from:
+o      -[CreateAddressController getMaxCount] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o  "_sqlite3_bind_text", referenced from:
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o
+o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o
+o  "_sqlite3_column_text", referenced from:
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o  "_sqlite3_open", referenced from:
+o      -[CreateAddressController getMaxCount] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o  "_sqlite3_column_int", referenced from:
+o      -[CreateAddressController getMaxCount] in CreateAddressController.o
+o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o  "_sqlite3_bind_double", referenced from:
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o  "_sqlite3_bind_int", referenced from:
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o  "_sqlite3_reset", referenced from:
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o  "_sqlite3_step", referenced from:
+o      -[CreateAddressController getMaxCount] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o  "_sqlite3_prepare_v2", referenced from:
+o      -[CreateAddressController getMaxCount] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o  "_sqlite3_column_double", referenced from:
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+o  "_sqlite3_finalize", referenced from:
+o      -[CreateAddressController getMaxCount] in CreateAddressController.o
+o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o
+o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o
+o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@97"Link /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject357327009#357327009#0(5393"Undefined symbols:  "_sqlite3_close", referenced from:      -[CreateAddressController getMaxCount] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o  "_sqlite3_bind_text", referenced from:      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o  "_sqlite3_column_text", referenced from:      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o  "_sqlite3_open", referenced from:      -[CreateAddressController getMaxCount] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o  "_sqlite3_column_int", referenced from:      -[CreateAddressController getMaxCount] in CreateAddressController.o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o  "_sqlite3_bind_double", referenced from:      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o  "_sqlite3_bind_int", referenced from:      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o  "_sqlite3_reset", referenced from:      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o  "_sqlite3_step", referenced from:      -[CreateAddressController getMaxCount] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o  "_sqlite3_prepare_v2", referenced from:      -[CreateAddressController getMaxCount] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o  "_sqlite3_column_double", referenced from:      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o  "_sqlite3_finalize", referenced from:      -[CreateAddressController getMaxCount] in CreateAddressController.o      -[CreateAddressController saveEmployeeArray:] in CreateAddressController.o      -[LoginPage validateLoginWithUserName:password:] in LoginPage.o      -[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.old: symbol(s) not foundcollect2: ld returned 1 exit status72(4@34""_sqlite3_close", referenced from:357327009#19#37#0(6@0"357327009#0#0#0#0#0"0(13@67"-[CreateAddressController getMaxCount] in CreateAddressController.o357327009#56#74#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#130#81#0(6@0"357327009#0#0#0#0#0"0(13@63"-[LoginPage validateLoginWithUserName:password:] in LoginPage.o357327009#211#70#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#281#93#0(6@0"357327009#0#0#0#0#0"0(4@38""_sqlite3_bind_text", referenced from:357327009#374#41#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#415#81#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#496#81#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#577#81#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#658#81#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#739#81#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#820#81#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#901#81#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#982#81#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#1063#81#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#1144#81#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#1225#81#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#1306#81#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#1387#81#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#1468#81#0(6@0"357327009#0#0#0#0#0"0(13@63"-[LoginPage validateLoginWithUserName:password:] in LoginPage.o357327009#1549#70#0(6@0"357327009#0#0#0#0#0"0(13@63"-[LoginPage validateLoginWithUserName:password:] in LoginPage.o357327009#1619#70#0(6@0"357327009#0#0#0#0#0"0(4@40""_sqlite3_column_text", referenced from:357327009#1689#43#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#1732#93#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#1825#93#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#1918#93#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#2011#93#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#2104#93#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#2197#93#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#2290#93#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#2383#93#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#2476#93#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#2569#93#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#2662#93#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#2755#93#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#2848#93#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#2941#93#0(6@0"357327009#0#0#0#0#0"0(4@33""_sqlite3_open", referenced from:357327009#3034#36#0(6@0"357327009#0#0#0#0#0"0(13@67"-[CreateAddressController getMaxCount] in CreateAddressController.o357327009#3070#74#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#3144#81#0(6@0"357327009#0#0#0#0#0"0(13@63"-[LoginPage validateLoginWithUserName:password:] in LoginPage.o357327009#3225#70#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#3295#93#0(6@0"357327009#0#0#0#0#0"0(4@39""_sqlite3_column_int", referenced from:357327009#3388#42#0(6@0"357327009#0#0#0#0#0"0(13@67"-[CreateAddressController getMaxCount] in CreateAddressController.o357327009#3430#74#0(6@0"357327009#0#0#0#0#0"0(13@63"-[LoginPage validateLoginWithUserName:password:] in LoginPage.o357327009#3504#70#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#3574#93#0(6@0"357327009#0#0#0#0#0"0(4@40""_sqlite3_bind_double", referenced from:357327009#3667#43#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#3710#81#0(6@0"357327009#0#0#0#0#0"0(4@37""_sqlite3_bind_int", referenced from:357327009#3791#40#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#3831#81#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#3912#93#0(6@0"357327009#0#0#0#0#0"0(4@34""_sqlite3_reset", referenced from:357327009#4005#37#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#4042#81#0(6@0"357327009#0#0#0#0#0"0(4@33""_sqlite3_step", referenced from:357327009#4123#36#0(6@0"357327009#0#0#0#0#0"0(13@67"-[CreateAddressController getMaxCount] in CreateAddressController.o357327009#4159#74#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#4233#81#0(6@0"357327009#0#0#0#0#0"0(13@63"-[LoginPage validateLoginWithUserName:password:] in LoginPage.o357327009#4314#70#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#4384#93#0(6@0"357327009#0#0#0#0#0"0(4@39""_sqlite3_prepare_v2", referenced from:357327009#4477#42#0(6@0"357327009#0#0#0#0#0"0(13@67"-[CreateAddressController getMaxCount] in CreateAddressController.o357327009#4519#74#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#4593#81#0(6@0"357327009#0#0#0#0#0"0(13@63"-[LoginPage validateLoginWithUserName:password:] in LoginPage.o357327009#4674#70#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#4744#93#0(6@0"357327009#0#0#0#0#0"0(4@42""_sqlite3_column_double", referenced from:357327009#4837#45#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#4882#93#0(6@0"357327009#0#0#0#0#0"0(4@37""_sqlite3_finalize", referenced from:357327009#4975#40#0(6@0"357327009#0#0#0#0#0"0(13@67"-[CreateAddressController getMaxCount] in CreateAddressController.o357327009#5015#74#0(6@0"357327009#0#0#0#0#0"0(13@74"-[CreateAddressController saveEmployeeArray:] in CreateAddressController.o357327009#5089#81#0(6@0"357327009#0#0#0#0#0"0(13@63"-[LoginPage validateLoginWithUserName:password:] in LoginPage.o357327009#5170#70#0(6@0"357327009#0#0#0#0#0"0(13@86"-[SegmentManagingViewController getEmployeeDetails] in SegmentManagingViewController.o357327009#5240#93#0(6@0"357327009#0#0#0#0#0"0(13@19"Symbol(s) not found357327009#5333#24#0(6@0"357327009#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status357327009#5357#36#0(6@0"357327009#0#0#0#0#0"0(0#0#0"8607689760#905"    cd /Users/User/Documents/FinalProject    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -filelist /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/Objects-normal/i386/FinalProject.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/FinalProject1#
+
+CProcessInfoPlistFile /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/Info.plist FinalProject-Info.plist
+s357326990.927671
+e357326990.947953
+r1
+xProcessInfoPlistFile
+x/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/Info.plist
+xFinalProject-Info.plist
+lSLF07#2@31"Process FinalProject-Info.plist357326990#357326990#0(0"0(0#0#58"/Users/User/Documents/FinalProject/FinalProject-Info.plist13229813538947188#482"    cd /Users/User/Documents/FinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FinalProject-Info.plist -genpkginfo /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app/Info.plist0#
+
+CProcessPCH /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch.gch FinalProject_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s357327004.092103
+e357327005.344151
+r1
+xProcessPCH
+x/var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch.gch
+xFinalProject_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile FinalProject_Prefix.pch357327004#357327005#0(0"0(0#0#58"/Users/User/Documents/FinalProject/FinalProject_Prefix.pch8607687840#1861"    cd /Users/User/Documents/FinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-generated-files.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-own-target-headers.hmap -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-all-target-headers.hmap -iquote /Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/FinalProject-project-headers.hmap -F/Users/User/Documents/FinalProject/build/Debug-iphonesimulator -I/Users/User/Documents/FinalProject/build/Debug-iphonesimulator/include -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources/i386 -I/Users/User/Documents/FinalProject/build/FinalProject.build/Debug-iphonesimulator/FinalProject.build/DerivedSources -c /Users/User/Documents/FinalProject/FinalProject_Prefix.pch -o /var/folders/SZ/SZnyCXP+GDaP7FMZ0uPuKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FinalProject_Prefix-csgsmksacrmvywckwovagoabuiza/FinalProject_Prefix.pch.gch0#
+
+CTouch /Users/User/Documents/FinalProject/build/Debug-iphonesimulator/FinalProject.app
+r0
+
